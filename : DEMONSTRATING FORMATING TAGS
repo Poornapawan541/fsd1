@@ -1,0 +1,19 @@
+<!doctype This page is to view the all the tags present in the html>
+<html>
+<head>
+<title>tags page</title>
+</head>
+<body>
+<b>HELLOWORLD</b>
+<i>HELLOWORLD</i>
+<u>HELLOWORLD</u>
+<blink>HELLOWORLD</blink>
+<strong>HELLOWORLD</strong>
+<strike>HELLOWORLD</strike>
+<em>HELLOWORLD</em>
+<sub>HELLOWORLD</sub>
+<sup>HELLOWORLD</sup>
+<tt>HELLOWORLD</tt>
+<pre>HELLOWORLD</pre>
+</body>
+</html>
