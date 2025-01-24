@@ -1,0 +1,16 @@
+<!doctype To display hello world program>
+<html>
+<head>
+<title>HelloWorld page</title>
+</head>
+<body>
+<p>
+<h1>HELLOWORLD</h1><hr>
+<h2>HELLOWORLD</h2><hr>
+<h3>HELLOWORLD</h3><hr>
+<h4>HELLOWORLD</h4><hr>
+<h5>HELLOWORLD</h5><hr>
+<h6>HELLOWORLD</h6><hr>
+</p>
+</body>
+</html>
