@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Identity Card</title>
+</head>
+
+<body align="center">
+    <img src="00.jpg" alt="Image" width="300" height="80">
+    <p style="color:red">Tadepalligudem - 534101 www.sasi.ac.in</p>
+    <img src="002.jpg" alt="" width="190" height="50"><br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0bK-x4J4TvBn9YT1pkoZeNs5gDs0VuHyQA&s" alt="" width="150" height="140" >
+    <h2 style="color: green;">DASARI POORNA PAWAN KUMAR</h2>
+    <p style="color: blue;"><b>B.Tech - </b>
+        <p1 style="color:red;"><b>CSE</b></p1>
+    </p>
+    <h3 style="color: blue;">23K61A0541</h3>
+    <img src="barcode (1).gif" alt="barcode">
+    <p style="color: red;"><b>Aadhar No:</b>
+        <p1 style="color: black;">753512256646   . . .  </p1>
+        <p2 style="color: red;"><b>valid:</b><p3 style="color: black;">2023-27</p3></p2>
+    </p>
+    <p style="color: red;"><b>Father:</b>
+        <p1 style="color: black;">DASARI HANUMANTHU RAO</p1>
+        <p2 style="color:red">.<b> B.G:</b><p3 style="color: black;">A+VE</p3>
+        </P2>
+    </p>
+    <p style="color: red;"><b>Village:</b>
+        <p1 style="color: black;">JANGAREDDYGUDEM</p1>
+    </p>
+    <p style="color:red"><b>cell:</b>
+        <p1 style="color: black;">9704457974</p1>
+    </p>
+
+    
+</body>
+
+</html>
