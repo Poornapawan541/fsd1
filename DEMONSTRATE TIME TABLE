@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Time Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #343a40;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin: 20px auto;
+            background-color: #fff;
+            border: 2px solid #dee2e6;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        th,
+        td {
+            border: 1px solid #dee2e6;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            color: #343a40;
+        }
+
+        .highlight {
+            background-color: #f8f9fa;
+        }
+
+        .special {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>TIME TABLE</h1>
+    <table>
+        <tr>
+            <th>Day/Period</th>
+            <th>I<br>9:00-9:55</th>
+            <th>II<br>9:55-10:50</th>
+            <th>10:50-11:00</th>
+            <th>III<br>11:00-11:55</th>
+            <th>IV<br>11:55-12:50</th>
+            <th>12:50-1:50</th>
+            <th>V<br>1:50-2:45</th>
+            <th>VI<br>2:45-3:40</th>
+            <th>VII<br>3:40-4:30</th>
+        </tr>
+        <tr>
+            <td class="highlight"><b>Monday</b></td>
+            <td>FSD</td>
+            <td>DBMS</td>
+            <td rowspan="6" class="special"><b>BREAK</b></td>
+            <td>MEFA</td>
+            <td>SE</td>
+            <td rowspan="6" class="special"><b>LUNCH</b></td>
+            <td>SSC</td>
+            <td>SE</td>
+            <td>OS</td>
+            
+        </tr>
+        <tr>
+            <td class="highlight"><b>Tuesday</b></td>
+            <td >P&S</td>
+            <td>FSD</td>
+            <td>DBMS</td>
+            <td>OS</td>
+            <td>SE</td>
+            <td>MEFA</td>
+            <td>DT&I</td>
+        </tr>
+        <tr>
+            <td class="highlight"><b>Wednesday</b></td>
+            <td>SE</td>
+            <td>P&S</td>
+            <td colspan="2">DT&I LAB</td>
+            <td>DBMS</td>
+            <td colspan="2">CDC LAB</td>
+        </tr>
+        <tr>
+            <td class="highlight"><b>Thursday</b></td>
+            <td colspan="2">OS/DBMS LAB</td>
+            <td colspan="2">CDC</td>
+            <td>P&S</td>
+            <td>OS</td>
+            <td>DBMS</td>
+        </tr>
+        <tr>
+            <td class="highlight"><b>Friday</b></td>
+            <td >OS</td>
+            <td>DBMS</td>
+            <td>P&S</td>
+            <td>MEFA</td>
+            <td colspan="3">FSD LAB</td>
+        </tr>
+        <tr>
+            <td class="highlight"><b>Saturday</b></td>
+            <td colspan="2">DBMS/OS LAB</td>
+            <td colspan="2">CDC</td>
+            <td>SE</td>
+            <td>OS</td>
+            <td>MEFA</td>
+        </tr>
+    </table>
+</body>
+
+</html>
