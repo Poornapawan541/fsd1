@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Identity Card</title>
+</head>
+
+<body align="center"; style="background-color: blue; width: 500px; margin-left: auto; margin-right: auto
+;">
+    <img src="00.jpg" alt="Image" width="400" height="90" style="border-radius: 10px;">
+    <p style="color: white;">DEPARTMENT OF COMPUTERSCIENCE & ENGINEERING</p>
+    <div style="background-color: white; border-radius: 10px; height: 800px; "><h2 style="color: red; padding: 0px;">LIST OF EXPERIMENTS</h2>
+    <ol align="left" style="">
+        <li>Introdution to html</li>
+        <li>History of html</li>
+        <li>HTML tags</li>
+        <li>Html attributes</li>
+        <li>Html Headings</li>
+        <li>Html textformating</li>
+        <li>Html anchor tag</li>
+        <li>Html image tag</li>
+        <li>Html list</li>
+        <li>Html tables</li>
+    </ol>
+    
+    </div>
+
+    
+</body>
+
+</html>
